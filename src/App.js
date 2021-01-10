@@ -1,13 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-
+import invite from './invite.ics'
 function App() {
   return (
 <body>
   <div className="all">
   <div className="banner">
     <div className="banner_content">
-    <img className="calfoundersimage" src="https://ashfromberkeleytown.files.wordpress.com/2021/01/calfounders-1.png"/>
+    <img alt="Cal Founders Logo" className="calfoundersimage" src="https://ashfromberkeleytown.files.wordpress.com/2021/01/calfounders-1.png"/>
     <div className="description">
       <p>this <b>Thursday, January 14th</b>, hosted by Clubhouse</p>
     </div>
@@ -49,8 +48,8 @@ function App() {
     </div>
 
     <div className="engager">
-      <div className="buttonDiv firstButton" onclick="location.href='https://calendar.google.com/event?action=TEMPLATE&tmeid=M211YjQ5aHFlcGs3NDN1aHR0YWNhcjRqYWIgYmhhdEBiZXJrZWxleS5lZHU&tmsrc=bhat%40berkeley.edu';">
-        <img className="icon" src="https://ashfromberkeleytown.files.wordpress.com/2021/01/calendar_blue.png"/>
+      <div className="buttonDiv firstButton" onClick={() => {window.location.href=invite;}}>
+        <img alt="calendar icon" className="icon" src="https://ashfromberkeleytown.files.wordpress.com/2021/01/calendar_blue.png"/>
         <div className="buttonText">
         Add to
         <br/>
@@ -58,8 +57,8 @@ function App() {
         </div>
 
       </div>
-      <div className="buttonDiv" onclick="location.href='https://www.joinclubhouse.com/event/gxlOD6qP';">
-        <img className="icon" src="https://www.joinclubhouse.com/static/img/icon_wave.2872aeea710c.png"/>
+      <div className="buttonDiv" onClick={() => {window.location.href='https://www.joinclubhouse.com/event/gxlOD6qP';}}>
+        <img alt="clubhouse icon" className="icon" src="https://www.joinclubhouse.com/static/img/icon_wave.2872aeea710c.png"/>
 
         <div className="buttonText">
         Join us on
