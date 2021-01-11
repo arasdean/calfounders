@@ -87,6 +87,7 @@ function App() {
           <li>'19</li>
           <li>'XX</li>
           <li>'21</li>
+          <li>'21</li>
           <li>'22</li>
         </ul>
         </div>
@@ -100,6 +101,7 @@ function App() {
           <li>Jeevan Mokkla</li>
           <li>Adithya Iyengar</li>
           <li>Rohan Phadte</li>
+          <li>Deevy Bhimani</li>
           <li>Linus Lee</li>
           <li>Saneel Sreeni</li>
         </ul>         
