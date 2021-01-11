@@ -78,7 +78,6 @@ function App() {
       <div className="grid-container">
         <div className="grid-item firstItem">
         <ul>
-          <li>Class</li>
           <li>'13</li>
           <li>'19</li>
           <li>'19</li>
@@ -88,7 +87,6 @@ function App() {
         </div>
         <div className="grid-item">
         <ul>
-          <li>Name</li>
           <li>Jeremy Fiance</li>
           <li>Abhishyant Khare</li>
           <li>Katharine Jiang</li>
