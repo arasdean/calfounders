@@ -25,6 +25,7 @@ function App() {
 
     <div className="agenda">
       <h2>Agenda</h2>
+      <span className="ContentDescription"> Topics we'll moderate over </span>
       <div className="grid-container">
         <div className="grid-item firstItem">
         <ul>
@@ -67,8 +68,36 @@ function App() {
         </div>
       </div>
     </div>
-
     <center><div className="credit">organized by <a className="reference" href="https://twitter.com/Ke5havRao">Keshav</a>, <a className="reference" href="https://twitter.com/aakashadesara">Aakash</a>, and <a className="reference" href="https://twitter.com/theashbhat">Ash</a></div></center>
+    
+    <hr class="solid" noshade/>
+
+    <div className="confirmations">
+      <h2>Confirmations</h2>
+      <span className="ContentDescription"> People who've told us they're coming </span>
+      <div className="grid-container">
+        <div className="grid-item firstItem">
+        <ul>
+          <li>Class</li>
+          <li>'13</li>
+          <li>'19</li>
+          <li>'19</li>
+          <li>'XX</li>
+          <li>'22</li>
+        </ul>
+        </div>
+        <div className="grid-item">
+        <ul>
+          <li>Name</li>
+          <li>Jeremy Fiance</li>
+          <li>Abhishyant Khare</li>
+          <li>Katharine Jiang</li>
+          <li>Rohan Phadte</li>
+          <li>Saneel Sreeni</li>
+        </ul>         
+        </div> 
+      </div>
+    </div>
 
   </div>
   </div>
