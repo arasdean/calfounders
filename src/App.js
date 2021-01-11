@@ -80,7 +80,6 @@ function App() {
         <ul>
           <li>'14</li>
           <li>'18</li>
-          <li>'18</li>          
           <li>'19</li>
           <li>'19</li>
           <li>'19</li>
@@ -95,7 +94,6 @@ function App() {
         <ul>
           <li>Jeremy Fiance</li>
           <li>Sujude Dalieh</li>
-          <li>Ron Bhattacharya</li>
           <li>Abhishyant Khare</li>
           <li>Katharine Jiang</li>
           <li>Jeevan Mokkla</li>
