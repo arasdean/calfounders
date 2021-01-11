@@ -84,6 +84,7 @@ function App() {
           <li>'19</li>
           <li>'19</li>
           <li>'19</li>
+          <li>'19</li>
           <li>'XX</li>
           <li>'21</li>
           <li>'22</li>
@@ -96,6 +97,7 @@ function App() {
           <li>Ron Bhattacharyay</li>
           <li>Abhishyant Khare</li>
           <li>Katharine Jiang</li>
+          <li>Jeevan Mokkla</li>
           <li>Adithya Iyengar</li>
           <li>Rohan Phadte</li>
           <li>Linus Lee</li>
