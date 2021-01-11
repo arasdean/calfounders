@@ -95,7 +95,7 @@ function App() {
         <ul>
           <li>Jeremy Fiance</li>
           <li>Sujude Dalieh</li>
-          <li>Ron Bhattacharyay</li>
+          <li>Ron Bhattacharya</li>
           <li>Abhishyant Khare</li>
           <li>Katharine Jiang</li>
           <li>Jeevan Mokkla</li>
