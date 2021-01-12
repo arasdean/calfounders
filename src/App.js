@@ -20,7 +20,7 @@ function App() {
     <div className="Context">
     <h2 className="ContextTitle">Context</h2>
     <p>This is the first annual town hall of Cal Founders '10 - '20 (past, present, and future) to talk about the state of the world from the entrepreneurial lense.</p>
-    <p>This Town Hall will be open for the public to listen in and by hosted by Clubhouse.</p>
+    <p>This Town Hall will be open for the public to listen in and be hosted by Clubhouse.</p>
     </div>
 
     <div className="agenda">
@@ -86,6 +86,7 @@ function App() {
           <li>'19</li>
           <li>'19</li>
           <li>'19</li>
+          <li>'19</li>
           <li>'XX</li>
           <li>'21</li>
           <li>'21</li>
@@ -101,6 +102,7 @@ function App() {
           <li>Sujude Dalieh</li>
           <li>Abhishyant Khare</li>
           <li>Aparna Krishnan</li>
+          <li>Ali Ahmed</li>
           <li>Katharine Jiang</li>
           <li>Jeevan Mokkla</li>
           <li>Adithya Iyengar</li>
