@@ -79,7 +79,9 @@ function App() {
         <div className="grid-item firstItem">
         <ul>
           <li>'14</li>
+          <li>'16</li>
           <li>'18</li>
+          <li>'19</li>
           <li>'19</li>
           <li>'19</li>
           <li>'19</li>
@@ -88,20 +90,26 @@ function App() {
           <li>'21</li>
           <li>'21</li>
           <li>'22</li>
+          <li>'23</li>
+          <li>'23</li>
         </ul>
         </div>
         <div className="grid-item">
         <ul>
           <li>Jeremy Fiance</li>
+          <li>Sumukh Sridhara</li>
           <li>Sujude Dalieh</li>
           <li>Abhishyant Khare</li>
+          <li>Aparna Krishnan</li>
           <li>Katharine Jiang</li>
           <li>Jeevan Mokkla</li>
           <li>Adithya Iyengar</li>
           <li>Rohan Phadte</li>
           <li>Deevy Bhimani</li>
           <li>Linus Lee</li>
+          <li>Adam Saleh</li>
           <li>Saneel Sreeni</li>
+          <li>John Forbes</li>
         </ul>         
         </div> 
       </div>
