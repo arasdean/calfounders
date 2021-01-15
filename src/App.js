@@ -90,6 +90,7 @@ function App() {
           <li>'XX</li>
           <li>'21</li>
           <li>'21</li>
+          <li>'21</li>
           <li>'22</li>
           <li>'23</li>
           <li>'23</li>
@@ -109,6 +110,7 @@ function App() {
           <li>Rohan Phadte</li>
           <li>Deevy Bhimani</li>
           <li>Linus Lee</li>
+          <li>Jake Tennant</li>
           <li>Adam Saleh</li>
           <li>Saneel Sreeni</li>
           <li>John Forbes</li>
